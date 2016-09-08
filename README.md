@@ -7,4 +7,6 @@ Documents for submitting to Expert Systems with Applications. This includes:
 
 3. A cover letter.
 
-4. A file which indicates the similarity and difference between the original paper and extened manuscript.
+4. A highlight file, which summarizes the manuscript.
+
+5. A file which indicates the similarity and difference between the original paper and extened manuscript.
