@@ -10,3 +10,5 @@ Documents for submitting to Expert Systems with Applications. This includes:
 4. A highlight file, which summarizes the manuscript.
 
 5. A file which indicates the similarity and difference between the original paper and extened manuscript.
+
+6. The output of all methods.
