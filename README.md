@@ -11,4 +11,3 @@ Documents for submitting to Expert Systems with Applications. This includes:
 
 5. A file which indicates the similarity and difference between the original paper and extened manuscript.
 
-6. The output of all methods.
